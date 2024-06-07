@@ -10,8 +10,6 @@
 
 # IF YOUR DEVICE SUPPORTS [LEGACY-IOS-KIT](https://github.com/LukeZGD/Legacy-iOS-Kit), YOU SHOULD REALLY USE THAT OVER THIS.
 
-# SEMAPHORIN IS NOW DISCONTINUED, PLEASE ASK [Mineek](https://github.com/mineek) FOR THE BEST ALTERNATIVE.
-
 # Chart of compatibility
 
 | iOS         | App Store | Cydia       | Tweaks    | Respring| Cellular | Sideloadly | iTunes     |
