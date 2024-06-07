@@ -30,7 +30,7 @@ To use this app, you need to downgrade to a supported version, and have a suppor
 
 `xcode-select install` to install `git` on macos
 
-`git clone https://github.com/y08wilm/Semaphorin && cd Semaphorin`
+`git clone https://github.com/hostedbyjustus/Semaphorin-Archive && cd Semaphorin`
 
 Connect device in DFU mode
 
