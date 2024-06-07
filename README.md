@@ -74,6 +74,14 @@ USB Type-A port and Lightning cable. USB Type-C ports will **NOT** work with thi
 
 Working iDevice: The script has to backup `apticket.der`, `sep-firmware.img4`, `Baseband`, and `keybags` from your device before you can downgrade to an older iOS version.
 
+## Support
+
+We now have a [Discord server](https://discord.gg/WQWDBBYJTb) where you can get help with this project.
+
+If, for whatever reason, that invite link does not work, please contact [/](/) on Telegram.
+
+The Discord server is strictly for Semaphorin support only. Please don't bring personal issues into our server.
+
 ## Setup.app bypass
 
 We will not be providing any support for any method of deleting `/Applications/Setup.app` with our script.
