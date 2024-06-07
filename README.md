@@ -78,7 +78,7 @@ Working iDevice: The script has to backup `apticket.der`, `sep-firmware.img4`, `
 
 We now have a [Discord server](https://discord.gg/WQWDBBYJTb) where you can get help with this project.
 
-If, for whatever reason, that invite link does not work, please contact [/](/) on Telegram.
+If, for whatever reason, that invite link does not work, please contact / on Telegram.
 
 The Discord server is strictly for Semaphorin support only. Please don't bring personal issues into our server.
 
