@@ -9,7 +9,7 @@ maj_ver=$(echo "$os_ver" | awk -F. '{print $1}')
 dir="$(pwd)"
 bin="$(pwd)/$(uname)"
 sshtars="$(pwd)/sshtars"
-echo "Semaphorin | Version 1.0"
+echo "Semaphorin | Version 1.0 EOL"
 echo "Written by y08wilm and Mineek | Some code and ramdisk from Nathan"
 echo ""
 max_args=1
@@ -123,7 +123,7 @@ fi
 print_help() {
     cat << EOF
 Usage: $0 [VERSION...] [OPTION...]
-iOS 7.0.1-9.2.1 Downgrade & Jailbreak tool for older checkm8 devices using seprmvr64
+iOS 7.0.1-12.1 Downgrade, Dualboot & Jailbreak tool for older checkm8 devices using seprmvr64
 Examples:
     $0 7.1.2 --restore
     $0 7.1.2 --boot
