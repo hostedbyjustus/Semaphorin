@@ -1,14 +1,17 @@
 <div align="center">
-<img src="https://files.catbox.moe/x7b0e2.png" height="128" width="128" style="border-radius:25%">
-   <h1> Semaphorin 
+<img src="https://web.archive.org/web/20240609114120/https://files.catbox.moe/x7b0e2.png" height="128" width="128" style="border-radius:25%">
+   <h1> Semaphorin (Archived/EOL)
       <br/> 64-Bit Downgrade, Dualboot & Jailbreak Utility
    </h1>
 </div>
 
 <h4 align="center"> uses seprmvr64 by mineek<h4>
-<h6 align="center"> Supports* iOS 7.0.6-12.1 as well as A7-A11 devices </h6>
+<h6 align="center"> Supports* iOS 7.0.6-12.1 (13.x/14.x) on A7-A11 devices </h6>
 
-# IF YOUR DEVICE SUPPORTS [LEGACY-IOS-KIT](https://github.com/LukeZGD/Legacy-iOS-Kit), YOU SHOULD REALLY USE THAT OVER THIS.
+#### IF YOU WANT TO DOWNGRADE OTHER iOS DEVICES, TRY OUT [LEGACY-IOS-KIT](https://github.com/LukeZGD/Legacy-iOS-Kit) from LukeZGD.
+
+#### SEMAPHORIN WILL NOT RECEIVE ANY MORE UPDATES FROM ITS INITIAL DEVELOPER. THIS FORK CONTAINS THE LASTEST WORK. 
+#### FOR POTENTIAL FURTHER DEVELOPMENT CHECK OUT THIS FORK OF [SEMAPHORIN](https://github.com/LukeZGD/Semaphorin)
 
 # Chart of compatibility
 
@@ -18,7 +21,7 @@
 |------------------------------------------------------------|-----------|-------------|-----------|---------|----------|------------|------------|
 | 7.0.6 ‎  <br> ↳ dualboot if main OS is 10.3.3 or below      | &#9745;   | &#9745;     | &#9745;   | &#9745; | &#9745;  | &#9745;    | &#9745;    | 
 | 7.1.2 ‎  <br> ↳ dualboot if main OS is 10.3.3 or below      | &#9745;   | &#9745;     | &#9745;   | &#9745; | &#9745;  | &#9745;    | &#9745;    |
-| 8.2 ‎ ‎ ‎  <br> ↳ dualboot if main OS is 10.3.3 or below      | &#9745;   | &#9745;     | &#9745;   | &#9745; | &#9744;  | &#9745;    | &#9745;    |
+| 8.2-8.4.1 <br> ↳ dualboot if main OS is 10.3.3 or below      | &#9745;   | &#9745;     | &#9745;   | &#9745; | &#9744;  | &#9745;    | &#9745;    |
 | 9.3 ‎ ‎  ‎ <br> ↳ dualboot if main OS is 10.3.3 or below      | &#9745;   | &#9745;     | &#9745;   | &#9745; | &#9745;  | &#9744;    | &#9744;    |
 | 10.3.3  <br> ↳ dualboot on any main OS                     | &#9745;   | &#9745;     | &#9745;   | &#9745; | &#9745;  | &#9744;    | &#9744;    |
 | 11.3 ‎  ‎ <br> ↳ dualboot on any main OS                     | &#9745;   | &#9745;     | &#9745;   | &#9745; | &#9745;  | &#9744;    | &#9744;    |
@@ -27,7 +30,7 @@
 | iOS                                                        | App Store | Cydia       | Tweaks    | Respring| Cellular | Sideloadly | iTunes     |
 |------------------------------------------------------------|-----------|-------------|-----------|---------|----------|------------|------------|
 | 13.x ‎ ‎  <br> ↳ dualboot on any main OS‎‎ ‎ ‎ ‎                  | &#9745;   | &#9744;     | &#9744;   | &#63;   | &#9745;  | &#63;      | &#63;      |
-### unrecommended/half broken (WIP)         
+### unrecommended/half broken         
 | iOS                                                        | App Store | Cydia       | Tweaks    | Respring| Cellular | Sideloadly | iTunes     |
 |------------------------------------------------------------|-----------|-------------|-----------|---------|----------|------------|------------|
 | 14.x‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎          ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ | &#9745;   | &#9744;     | &#9744;   | &#63;   | &#9745;  | &#63;      | &#63;      |
