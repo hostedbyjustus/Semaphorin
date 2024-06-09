@@ -5,7 +5,7 @@
    </h1>
 </div>
 
-<h4 align="center"> Uses seprmvr64 by mineek<h4>
+<h4 align="center"> uses seprmvr64 by mineek<h4>
 <h6 align="center"> Supports* iOS 7.0.6-12.1 as well as A7-A11 devices </h6>
 
 # IF YOUR DEVICE SUPPORTS [LEGACY-IOS-KIT](https://github.com/LukeZGD/Legacy-iOS-Kit), YOU SHOULD REALLY USE THAT OVER THIS.
@@ -24,7 +24,7 @@
 
 ## How do I use this?
 
-This script deletes everything on your phone, including the main OS if you are not downgrading to iOS 10.3.3 or later. Make sure to backup all of your data before using this script as **anything on the device prior to running this script will be unrecoverable afterwards**. Use this script at your own risk. We are not responsible for any damages caused by you using this script.
+This script deletes everything on your phone, including the main OS if you are not downgrading to iOS 10.3.3 or later (just make sure you use the --dualboot-hfs flag when planning on dualbooting while on 10.3.3). Make sure to backup all of your data before using this script as **anything on the device prior to running this script will be unrecoverable afterwards if you choose to use the tethered options**. Use this script at your own risk. We are not responsible for any damages caused by you using this script.
 
 To use this app, you need to downgrade to a supported version, and have a supported device.
 
@@ -60,7 +60,7 @@ It should just boot to your requested iOS version normally.
 
 ## Requirements
 
-macOS Catalina or later. The script only officially supports these versions.
+macOS Catalina or later and Linux. The script only officially supports these versions.
 
 Java 8 https://builds.openlogic.com/downloadJDK/openlogic-openjdk/8u262-b10/openlogic-openjdk-8u262-b10-mac-x64.pkg
 
@@ -119,12 +119,6 @@ Linux and Windows support is not planned either, do not ask about this either.
 
    ### Meridian is absent (on iPads)
    iPads have uicache issues with most jailbreaking tools. To open Meridian, enter `meridian://` in Safari's address bar and press Enter. Until further notice, this does not work, due to Safari not working on that version of iOS. This may be fixed at a later date. Sorry for the inconvenience.
-
-   ### Chimera is absent (on iPads)
-   iPads have uicache issues with most jailbreaking tools. To open Chimera, enter `chimera://` in Safari's address bar and press Enter.
-
-   ### Electra is absent (on iPads)
-   iPads have uicache issues with most jailbreaking tools. To open Electra, enter `electra://` in Safari's address bar and press Enter.
 
    ### Pangu is absent (on iPads)
    iPads have uicache issues with most jailbreaking tools. To open Pangu, enter `nvwastone://` in Safari's address bar and press Enter.
